@@ -18,7 +18,7 @@ list of students out in the browser. The RSpec/Capybara tests for this lab can
 be found in `spec/features`, both tests should be passing to complete the lab.
 
 ## Instructions
- 
+
 * Run `bundle install` from your terminal
 
 * Run:
