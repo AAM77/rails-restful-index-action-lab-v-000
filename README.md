@@ -21,7 +21,7 @@ be found in `spec/features`, both tests should be passing to complete the lab.
 
 * Run `bundle install` from your terminal
 
-* Run: 
+* Run:
 	+ `rake db:create`
 	+ `rake db:migrate`
 	+ `rake db:seed`
